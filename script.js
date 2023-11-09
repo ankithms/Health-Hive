@@ -116,3 +116,7 @@ var swiper = new Swiper(".blogs-slider", {
     },
   },
 });
+
+
+
+   
